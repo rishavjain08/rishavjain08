@@ -1,6 +1,6 @@
-[![MasterHead](https://imageio.forbes.com/specials-images/imageserve/63ae0066bacde4972dcc7317/AI--Machine-learning--Hands-of-robot-and-human-touching-on-big-data-network/960x0.jpg?format=jpg&width=1440)](https://github.com/rishavjain2002/rishavjain2002)
+[![MasterHead](https://imageio.forbes.com/specials-images/imageserve/63ae0066bacde4972dcc7317/AI--Machine-learning--Hands-of-robot-and-human-touching-on-big-data-network/960x0.jpg?format=jpg&width=1440)](https://github.com/rishavjain08/rishavjain08)
 
-<h1 align="center">Hi 👋, I'm Rishav Jain</h1>
+<h1 align="center">Hi 👋, I'm Rishavv Jain</h1>
 
 <h3 align="center">"Crafting code, one commit at a time."</h3>
 
